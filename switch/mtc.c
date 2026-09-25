@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* program to calculate the total price of tickets using switch case */
 int main() {
     int ticket, price, quantity;
     printf("enter the ticket choice:");

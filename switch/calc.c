@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* program to perform basic arithmetic operations using switch case(mini calculator) */
 int main() {
     int a=10, b=12;
     char op;
